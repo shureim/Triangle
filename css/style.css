@@ -1,6 +1,8 @@
 body{
   background-image:url(../img/black.jpeg);
 text-align: center;
+color:white;
+background-repeat:repeat;
 }
 .t{
   text-align: center;
