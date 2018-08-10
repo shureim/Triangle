@@ -1,5 +1,5 @@
 # Triangle
-creating a web page that show type of triangle
+creating a web page that show type of triangle.
 #### Triangle tracker is a web page that helps an individual to input value and know types of triangles, 8/8/2018.
 #### By **Tarek Ali Abdi.**
 ## Description
