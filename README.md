@@ -14,7 +14,7 @@ This is a web page called triangle tracker it has three input where a user input
 ## Known Bugs
 there are no know Bugs in this web page.
 ## Technologies Used
-*HTML
+*HTML.
 *CSS
 *Javascripts.
 ## Support and contact details
