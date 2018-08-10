@@ -9,7 +9,7 @@ This is a web page called triangle tracker it has three input where a user input
 * Make sure your computer also hasjavascript installed or you can use JSFiddle.
 * Make sure your computer in connected to a browser.
 * HTML,CSS and Javascript has been used to form this web page hence it's easy to use.
-* for refference when requiring you can use w3school.
+* For refference when requiring you can use w3school.
 
 ## Known Bugs
 there are no know Bugs in this web page.
