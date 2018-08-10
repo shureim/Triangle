@@ -1,7 +1,7 @@
 # Triangle
 creating a web page that show type of triangle
 #### Triangle tracker is a web page that helps an individual to input value and know types of triangles, 8/8/2018.
-#### By **Tarek Ali Abdi**
+#### By **Tarek Ali Abdi.**
 ## Description
 This is a web page called triangle tracker it has three input where a user inputs and have an answer, triangle tracker is a web page that gives user an information about the different types of triangles we have .And also shows how one can know the difference in terms of the triangles by inptutting values in the alert box. 
 ## Setup/Installation Requirements
