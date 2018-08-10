@@ -3,7 +3,7 @@ body{
   background-image: url(triangle.png);
 }
 span{
-  float: center;
+  text-align: center;
 }
 title{
   text-align: center;
