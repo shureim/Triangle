@@ -7,7 +7,7 @@ This is a web page called triangle tracker it has three input where a user input
 ## Setup/Installation Requirements
 * Make sure the computer has atom or sublime text or visual studio code.
 * Make sure your computer also hasjavascript installed or you can use JSFiddle.
-* make sure your computer in connected to a browser.
+* Make sure your computer in connected to a browser.
 * HTML,CSS and Javascript has been used to form this web page hence it's easy to use.
 * for refference when requiring you can use w3school.
 
