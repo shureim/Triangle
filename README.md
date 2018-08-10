@@ -17,7 +17,7 @@ there are no know Bugs in this web page.
 *HTML.
 *CSS.
 *Javascripts.
-## Support and contact details
+## Support and contact details.
 For more information contact +25450995069 or Email me tarickaliabdi@gmail.com.
 ### License
 *MIT Licence*
