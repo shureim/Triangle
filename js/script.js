@@ -14,6 +14,6 @@ alert("This is an Isosceles triangle")
 else if(a!==b && b!==c){
 alert("This is a scalene triangle ")
 }
-else if((a+b)<=c (a+c)<=b(b+c)<=a){
+else if(a+b<c || a+c<b || b+c<a){
 alert("NOT a triangle")
-} 
+}
