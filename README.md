@@ -4,7 +4,7 @@ Creating a web page that show type of triangle.
 #### By **Tarek Ali Abdi.**
 ## Description.
 This is a web page called triangle tracker it has three input where a user inputs and have an answer, triangle tracker is a web page that gives user an information about the different types of triangles we have .And also shows how one can know the difference in terms of the triangles by inptutting values in the alert box. 
-## Setup/Installation Requirements
+## Setup/Installation Requirements.
 * Make sure the computer has atom or sublime text or visual studio code.
 * Make sure your computer also hasjavascript installed or you can use JSFiddle.
 * Make sure your computer in connected to a browser.
