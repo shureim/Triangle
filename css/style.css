@@ -4,3 +4,6 @@ body{
 span {
   float: center;
 }
+title{
+  text-align: center;
+}

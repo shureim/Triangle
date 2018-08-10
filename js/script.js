@@ -79,4 +79,4 @@ alert("Try Again")
 var enters = ["Refresh","the page!"];
 enters.forEach(function(enter){
 alert(word)
-})
+}
