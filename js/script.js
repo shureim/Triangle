@@ -1,5 +1,7 @@
 
 var triangle=function(){
+// }
+// triangle();
 
 var a= parseInt(prompt("Enter the first number"));
 var b= parseInt(prompt("Enter the second number"));
