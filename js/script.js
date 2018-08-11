@@ -28,7 +28,7 @@ alert("Try Again");
 }
 triangle();
 
-var words = ["Refresh","the page!"];
+var words = ["REFRESH","PAGE!"];
 words.forEach(function(word){
 alert(word);
 });
