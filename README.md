@@ -10,13 +10,13 @@ This is a web page called triangle tracker it has three input where a user input
 * Make sure your computer in connected to a browser.
 * HTML,CSS and Javascript has been used to form this web page hence it's easy to use.
 * For refference when requiring you can use w3school.
-## behaviour Driven Development (DBB).
+## Behaviour Driven Development (DBB).
 |Behaviour                     |  Input                        | Output            |
 |------------------------------|-------------------------------|-------------------|
 |the program recognizes values which all sides are equal.| First number =4 second number =4 third number =4 |Equilateral triangle|
 |the program recognizes values which two sides are equal.| First number =3 second number =3 third number =5 |Isosceles triangle|
 |the program recognizes value of two sides is equal or less than the thrid side.|First number =3 second number =4 third number =6 | Not a triangle |
-|the program recognizes value of two sides is equal or greator than the third side .|first number =3 second number =4 third number =8 |
+|the program recognizes value of two sides is equal or greator than the third side .|first number =3 second number =4 third number =8 |  scalene triangle |
 ## Known Bugs.
 there are no know Bugs in this web page.
 ## Technologies Used.
