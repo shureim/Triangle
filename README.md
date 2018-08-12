@@ -15,8 +15,8 @@ This is a web page called triangle tracker it has three input where a user input
 |------------------------------|-------------------------------|-------------------|
 |the program recognizes values which all sides are equal.| First number =4 second number =4 third number =4 |Equilateral triangle|
 |the program recognizes values which two sides are equal.| First number =3 second number =3 third number =5 |Isosceles triangle|
-|the program recognizes value of two sides is equal or less than the thrid side.|First number =3 second number =4 third number =6 | Not a triangle |
-|the program recognizes value of two sides is equal or greator than the third side .|first number =3 second number =4 third number =8 |  scalene triangle |
+|the program recognizes sum of two sides is equal or less than the thrid side.|First number =3 second number =4 third number =8| Not a triangle |
+|the program recognizes sum of two sides is equal or greator than the third side .|first number =3 second number =4 third number =6 | Scalene triangle |
 ## Known Bugs.
 there are no know Bugs in this web page.
 ## Technologies Used.
