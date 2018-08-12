@@ -10,13 +10,16 @@ This is a web page called triangle tracker it has three input where a user input
 * Make sure your computer in connected to a browser.
 * HTML,CSS and Javascript has been used to form this web page hence it's easy to use.
 * For refference when requiring you can use w3school.
-
+## behaviour Driven Development (DBB).
+|behaviour                     |  Input                        | Output            |
+|------------------------------|-------------------------------|-------------------|
+|the program recognizes values which are the same.| First number =4 second number =4 third number =4 |Equilateral triangle|
 ## Known Bugs.
 there are no know Bugs in this web page.
 ## Technologies Used.
-*HTML.
-*CSS.
-*Javascripts.
+* HTML.
+* CSS.
+* Javascripts.
 ## Support and contact details.
 For more information contact +25450995069 or Email me tarickaliabdi@gmail.com.
 ### License.
