@@ -1,4 +1,3 @@
-
 var triangle=function(){
 // }
 // triangle();
